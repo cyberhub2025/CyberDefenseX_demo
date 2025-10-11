@@ -17,8 +17,7 @@
 ---
 ## System Architecture
 
-<img width="2553" height="910" alt="hyperrdefenX" src="https://github.com/user-attachments/assets/ca6227ff-67c6-4063-a63f-2f177acf9b61" />
-
+<img width="1919" height="994" alt="Screenshot 2025-10-11 143031" src="https://github.com/user-attachments/assets/f9fac904-c057-4b81-9d0d-b3f32b2111ba" />
 ---
 
 1. **Data Ingestion** – Syslog, Cloud, Endpoint, IoT/OT agents, APIs  
