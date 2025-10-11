@@ -17,7 +17,9 @@
 ---
 ## System Architecture
 
-<img width="1919" height="994" alt="Screenshot 2025-10-11 143031" src="https://github.com/user-attachments/assets/f9fac904-c057-4b81-9d0d-b3f32b2111ba" />
+
+<img width="1747" height="930" alt="f4b8d1ed-ea2c-4d9e-b80a-8eb63bbf4741" src="https://github.com/user-attachments/assets/d3b6d64d-88e1-4839-a6f1-c4153e23ff13" />
+
 ---
 
 1. **Data Ingestion** – Syslog, Cloud, Endpoint, IoT/OT agents, APIs  
